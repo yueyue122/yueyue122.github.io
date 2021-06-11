@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<head><title>FakeDonate</title></head>
+
     
 	<body style="text-align: center">
 		<h1>Fake Donate</h1>
